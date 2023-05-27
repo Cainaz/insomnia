@@ -1,0 +1,21 @@
+_id: req_d23444bf104948eea136305e6ef6e3e1
+type: Request
+parentId: wrk_0fd12eb8cf3e431fb8eee3eb202ff5e4
+modified: 1685229891841
+created: 1685229884434
+url: ""
+name: second request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685229884434
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
