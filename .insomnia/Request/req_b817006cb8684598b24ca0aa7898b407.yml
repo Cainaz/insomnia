@@ -1,0 +1,21 @@
+_id: req_b817006cb8684598b24ca0aa7898b407
+type: Request
+parentId: wrk_0fd12eb8cf3e431fb8eee3eb202ff5e4
+modified: 1685230017251
+created: 1685230010779
+url: ""
+name: third request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685230010779
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
